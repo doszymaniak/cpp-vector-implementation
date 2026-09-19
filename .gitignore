@@ -1,0 +1,9 @@
+build/
+build-*/
+cmake-build-*/
+
+test
+myvector_tests
+
+*.o
+*.out
